@@ -1,0 +1,11 @@
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\bin\Debug\netcoreapp3.0\PracticaEjercitacion.exe
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\bin\Debug\netcoreapp3.0\PracticaEjercitacion.deps.json
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\bin\Debug\netcoreapp3.0\PracticaEjercitacion.runtimeconfig.json
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\bin\Debug\netcoreapp3.0\PracticaEjercitacion.runtimeconfig.dev.json
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\bin\Debug\netcoreapp3.0\PracticaEjercitacion.dll
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\bin\Debug\netcoreapp3.0\PracticaEjercitacion.pdb
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\obj\Debug\netcoreapp3.0\PracticaEjercitacion.csprojAssemblyReference.cache
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\obj\Debug\netcoreapp3.0\PracticaEjercitacion.AssemblyInfoInputs.cache
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\obj\Debug\netcoreapp3.0\PracticaEjercitacion.AssemblyInfo.cs
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\obj\Debug\netcoreapp3.0\PracticaEjercitacion.dll
+C:\Users\Mauro Polizzi\Source\Repos\PracticaEjercitacion\PracticaEjercitacion\obj\Debug\netcoreapp3.0\PracticaEjercitacion.pdb
